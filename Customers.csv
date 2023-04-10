@@ -1,0 +1,51 @@
+CustomerID,ContactName,Email,DOB,Postcode,City,Gender,Weight,Member
+1,Andrew,Ana@gmail.com,3/01/1988,2000,Sydney,Male,82.6,TRUE
+2,Anthony,Andrew@gmail.com,,2088,Mosman,Male,70.8,FALSE
+3,Ashley,Ann @gmail.com,20/09/1988,2016,Redfern,Female,52.6,FALSE
+4,Barbara,,31/01/1984,2000,Sydney,Female,55.6,TRUE
+5,Betty,Antonio@gmail.com,18/05/1989,2016,Redfern,Female,56.2,TRUE
+6,Brian,Aria @gmail.com,23/12/1992,2088,Mosman,Male,82.4,FALSE
+7,Charles,Brown@gmail.com,14/07/1998,2088,Mosman,Male,,TRUE
+8,Christopher,Carine @gmail.com,20/06/2001,2000,Sydney,Male,74.5,FALSE
+9,Daniel,Carlos@gmail.com,27/06/1995,2112,Ryde,Male,73.9,TRUE
+10,David,,10/10/1997,2112,Ryde,Male,74.2,FALSE
+11,Donald,Christ@gmail.com,10/11/1992,2020,Mascot,Male,74.2,TRUE
+12,Edward,Daniel @gmail.com,,2000,Sydney,Male,76.4,FALSE
+13,Elizabeth,Diego@gmail.com,15/09/1997,2041,Balmain,Female,50.8,TRUE
+14,Emily,Eduardo @gmail.com,26/07/2002,2067,Chatswood,Female,52.7,FALSE
+15,Eric,Elizabeth @gmail.com,13/07/2006,2016,Redfern,Male,87.8,TRUE
+16,Gary,Felipe @gmail.com,6/03/2008,2112,Ryde,Male,88.3,TRUE
+17,George,Fran @gmail.com,20/11/2003,2041,Balmain,Male,78.7,TRUE
+18,Jacob,Francisco @gmail.com,5/09/1998,2067,Chatswood,Male,90.7,FALSE
+19,Jason,,8/10/2003,2000,Sydney,Male,80.3,TRUE
+20,Jeffrey,Hanna @gmail.com,5/02/1997,2041,Balmain,Male,,FALSE
+21,Jennifer,Helen @gmail.com,8/06/1998,2020,Mascot,Female,53.2,TRUE
+22,Jessica,Howard@gmail.com,,2041,Balmain,Female,53.3,FALSE
+23,John,Jaime @gmail.com,8/03/1996,2150,Parramatta,Male,77.1,TRUE
+24,Joseph,James@gmail.com,4/06/1997,2150,Parramatta,Male,74.2,TRUE
+25,Joshua,James@gmail.com,29/04/1998,2112,Ryde,Male,85.4,TRUE
+26,Karen,Jenny@gmail.com,30/11/1991,2150,Parramatta,Female,52.5,FALSE
+27,Kenneth,John @gmail.com,11/06/1994,2000,Sydney,Male,81.2,TRUE
+28,Kevin,,9/02/1989,2112,Ryde,Male,81.6,FALSE
+29,Kimberly,Laurence@gmail.com,14/01/1992,2020,Mascot,Female,55.2,TRUE
+30,Linda,Lino @gmail.com,,2150,Parramatta,Female,55.7,FALSE
+31,Lisa,Louis@gmail.com,22/10/1996,2150,Parramatta,Female,52.7,TRUE
+32,Margaret,Manuel @gmail.com,29/12/1998,2150,Parramatta,Female,53.8,TRUE
+33,Mark,Maria@gmail.com,12/05/2000,2150,Parramatta,Male,71.4,FALSE
+34,Matthew,Mario @gmail.com,26/04/1999,2000,Sydney,Male,,TRUE
+35,Michael,Martine@gmail.com,14/03/2000,2067,Chatswood,Male,72.3,FALSE
+36,Nancy,Matt@gmail.com,7/11/1994,2020,Mascot,Female,54.1,TRUE
+37,Nicholas,,4/11/1998,2066,Lane Cove,Male,90.3,TRUE
+38,Patricia,Patricia @gmail.com,8/06/2005,2064,Artarmon,Female,50,TRUE
+39,Paul,Patricio @gmail.com,10/01/2006,2064,Artarmon,Male,78.2,FALSE
+40,Richard,Pedro @gmail.com,14/11/2005,2126,Cherrybrook,Male,72.8,TRUE
+41,Robert,Peter @gmail.com,11/03/2010,2126,Cherrybrook,Male,75,TRUE
+42,Ronald,Philip @gmail.com,28/02/2012,2126,Cherrybrook,Male,78.7,FALSE
+43,Ryan,,2/02/2012,2000,Sydney,Male,87.8,TRUE
+44,Sandra,Roland @gmail.com,3/08/2014,2066,Lane Cove,Female,,FALSE
+45,Sarah,Sven@gmail.com,19/08/2011,2064,Artarmon,Female,57.2,TRUE
+46,Steven,Tom@gmail.com,2/11/2004,2020,Mascot,Male,77.5,TRUE
+47,Susan,Victoria @gmail.com,15/08/1999,2067,Chatswood,Female,53.5,FALSE
+48,Thomas,Wil@gmail.com,22/07/1997,2066,Lane Cove,Male,72.9,TRUE
+49,Timothy,Yang @gmail.com,20/10/2002,2064,Artarmon,Male,74.1,TRUE
+50,William,,20/05/1997,2000,Sydney,Male,70.8,FALSE
