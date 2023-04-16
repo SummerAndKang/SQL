@@ -64,27 +64,35 @@ SELECT DISTINCT OrderDate
 INTO DistinctOrderDate
 FROM dbo.Orders
 
+SELECT *
+FROM dbo.DistinctCustomerID
+
+SELECT *
+FROM dbo.DistinctOrderDate
+
 SELECT a.OrderDate
 , b.CustomerID
 FROM DistinctOrderDate a
 CROSS JOIN DistinctCustomerID b
 
-
 --self join
-SELECT a.ContactName Name1
-, b.ContactName Name2
-, b.City
-FROM dbo.Customers a
-, dbo.Customers b
-WHERE a.ContactName != b.ContactName
-AND a.City = b.	City
+SELECT *
+FROM dbo.Customers
 ORDER BY City
-
 
 SELECT a.ContactName Name1
 , b.ContactName Name2
 , b.City
 FROM dbo.Customers a
 , dbo.Customers b
-WHERE a.City = b.City
-ORDER BY City
+WHERE a.City = B.City
+ORDER BY b.City
+
+SELECT a.ContactName Name1
+, b.ContactName Name2
+, b.City
+FROM dbo.Customers a
+, dbo.Customers b
+WHERE a.City = B.City
+AND a.ContactName != b.ContactName
+ORDER BY b.City
