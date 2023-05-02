@@ -1,7 +1,7 @@
 --Create a new database
-CREATE DATABASE Sample_DB;
+CREATE DATABASE Testing_DB
 --delete the database
-DROP DATABASE Sample_DB;
+DROP DATABASE Testing_DB
 
 --Create a table
 CREATE TABLE Customers (
@@ -32,7 +32,6 @@ VALUES (2, 'Jack', '1985-05-08', '2055', 'North Sydney', 1, 76.1),
 DELETE FROM Customers WHERE CustomerID = 5;
 
 --Update table
-
 UPDATE Customers
 SET CustomerName='James' WHERE CustomerID = 1;
 
